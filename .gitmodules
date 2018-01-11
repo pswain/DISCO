@@ -1,0 +1,6 @@
+[submodule "segmentation-software"]
+	path = segmentation-software
+	url = https://github.com/pswain/segmentation-software.git
+[submodule "GeneralMatlabFunctions"]
+	path = GeneralMatlabFunctions
+	url = https://github.com/pswain/GeneralMatlabFunctions.git
